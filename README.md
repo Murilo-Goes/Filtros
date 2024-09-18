@@ -1,4 +1,4 @@
-Aqui está uma sugestão de descrição para o projeto de filtro de pesquisa para postar no GitHub:
+
 
 Filtro de Pesquisa Simples com JavaScript
 
